@@ -44,7 +44,7 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 ## Contact
 If you have any questions about this privacy policy or the extension, please contact us at:
-[Your Contact Information]
+richardnguyen776@gmail.com
 
 ## Additional Information
 This extension complies with Google's Chrome Web Store policies and guidelines regarding user privacy and data security.
