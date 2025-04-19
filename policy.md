@@ -1,9 +1,8 @@
-# Privacy Policy for ComposerAI Assistant
-
-Last Updated: 2025-03-26
+# Privacy Policy
+Last Updated: 2025-04-19
 
 ## Introduction
-ComposerAI Assistant ("we", "the extension") is committed to protecting your privacy. This policy explains how we handle information when you use our Chrome extension.
+Extension ("we", "the extension") is committed to protecting your privacy. This policy explains how we handle information when you use our Chrome extension.
 
 ## Information Collection
 ### Information We Collect
